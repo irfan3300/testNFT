@@ -3,8 +3,8 @@
           { 
             "id" : 0,
             "description" : "Joletean Pokemon",
-            "image" : "0.jpeg",
-            "external_url" : "",
+            "image" : "https://github.com/irfan3300/testNFT/blob/main/0.jpg",
+            "external_url" : "https://my-json-server.typicode.com/irfan3300/testNFT/tokens/0",
               "name" : "Joleton",
                   "level" : "stage 1",
                   "HP" : "90",
@@ -14,8 +14,8 @@
              { 
             "id" : 1,
             "description":  "Espion Pokemon",
-            "image" : "",
-            "external_url" : "",
+            "image" : "https://github.com/irfan3300/testNFT/blob/main/1.jpg",
+            "external_url" : "https://my-json-server.typicode.com/irfan3300/testNFT/tokens/1",
               "name" : "Espion",
                   "level" : "stage 1",
                   "HP" : "90",
