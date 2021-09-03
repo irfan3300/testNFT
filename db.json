@@ -1,0 +1,25 @@
+{
+ "Tokens": [
+          { 
+            "id" : 0,
+            "description" : "Joletean Pokemon",
+            "image" : "",
+            "external_url" : "",
+              "name" : "Joleton",
+                  "level" : "stage 1",
+                  "HP" : "90",
+                  "weapon1" : " Electrigun",
+                  "weapon2" : " Pin Missile"
+             },
+             { 
+            "id" : 1
+            "description" : "Espion Pokemon",
+            "image" : "",
+            "external_url" : "",
+              "name" : "Espion",
+                  "level" : "stage 1",
+                  "HP" : "90",
+                  "weapon1" : " Solar Revelation",
+                  "weapon2" : " Psy Report"
+             },
+          
